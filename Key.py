@@ -1,6 +1,7 @@
 import os
 from time import sleep
 
+#by Zheck Savalas
 
 a ='\033[92m'
 b ='\033[91m'
@@ -33,7 +34,7 @@ sleep(1)
 print(b+'\n[!] Setting up..')
 sleep(2)
 os.system('termux-reload-settings')
-print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi ZheckSavalas untuk requests\natau pertanyaan, atau hubungi http://bit.ly/S4vLs/nThanks :*\n\n')
+print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi ZheckSavalas untuk requests\natau pertanyaan, atau hubungi http://bit.ly/S4vLs\nThanks :*\n\n')
 
 
 # ini cuma shortcut buat bantu para nub
