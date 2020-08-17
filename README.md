@@ -1,6 +1,6 @@
 # Key-Shortcut
-• pkg install python2
-• pkg install git
-• git clone https://github.com/ZheckSavalas/Key
-• cd Key
-• python2 Key.py
+• pkg install python2__
+• pkg install git__
+• git clone https://github.com/ZheckSavalas/Key__
+• cd Ke__
+• python2 Key.py__
