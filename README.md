@@ -1,5 +1,5 @@
 # Key-Shortcut
-<h2>
+<h5>
 • pkg install python2 <br>
 • pkg install git <br>
 <i>
@@ -7,4 +7,6 @@
 </i>
 • cd Key<br>
 • python2 Key.py <br>
-</h2>
+</h5>
+
+<marque>Thank for visit and read<marque>
